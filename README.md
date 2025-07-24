@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Hello, My name is Paola. I am a software engineer from CDMX. I love learning about new technologies and currently I am looking for job. Meanwhile I am working on my personal projects that I had always postponed.
 <!--
 **PaoAJ/PaoAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
